@@ -11,7 +11,7 @@ while counts > 0:
 
 
     if guess == answer:
-        print("你是我心里的蛔虫吗？！")
+        print("猜对啦！")
         print("哼，猜中了也没奖励！")
         break
     else:
@@ -22,4 +22,4 @@ while counts > 0:
             counts = counts - 1    
 
 
-print("游戏结束,不玩啦")        
+print("游戏结束！")        
